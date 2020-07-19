@@ -1,3 +1,10 @@
+/**
+ * Title: my-details.component.ts
+ * Author: Laurie Mailloux
+ * Date: July 19, 2020
+ * Description: My Details
+ */
+
 import { Component, OnInit } from '@angular/core';
 
 @Component({
