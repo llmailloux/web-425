@@ -14,5 +14,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'gpa-calculator-app1';
+  title = 'gpa-calculator-app-app1';
 }

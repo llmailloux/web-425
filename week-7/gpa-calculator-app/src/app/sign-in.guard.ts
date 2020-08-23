@@ -1,3 +1,12 @@
+/**
+ * Title: sign-in.guard.ts
+ * Author: Professor Krasso
+ * Modified by: Laurie Mailloux
+ * Date: 8/12/2020
+ * Description: Sign-in Guard
+ */
+
+
 import { Injectable } from '@angular/core';
 import { CanActivate, ActivatedRouteSnapshot, RouterStateSnapshot, UrlTree } from '@angular/router';
 import { Observable } from 'rxjs';

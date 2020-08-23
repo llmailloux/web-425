@@ -1,3 +1,12 @@
+/**
+ * Title: sign-in.service.ts
+ * Author: Professor Krasso
+ * Modified by: Laurie Mailloux
+ * Date: 8/12/2020
+ * Description: Sign-in Service
+ */
+
+
 import { Injectable } from '@angular/core';
 
 @Injectable({

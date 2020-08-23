@@ -14,5 +14,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  assignment: string = 'Exercise 4.3 - Handling Events with Observables';
+  assignment: string = 'Exercise 4.4 Async Pipe';
 }
